@@ -1,0 +1,3 @@
+# Dia 01
+
+Hoje comecei a implementar física com programação e aprendi oque significa cada simbolo da equação de Schrödinger, entendi para oque serve a equação e como funciona mas ainda não entendi como calcular essa equação pura no papel deve ser pelo simples fato que pulei direto da física clássica para a moderna, mas já faz meses que venho estudando física de forma autodidata e estou gostando muito, espero que um dia eu consiga entender tudo isso de forma mais profunda, mas por enquanto vou continuar estudando e aprendendo cada vez mais sobre esse assunto tão fascinante que é a mecânica quântica mas já cheguei a estudar sobre ótica e óptica, sobre ondas sonoras e ondas eletromagnéticas e espero aprender a como implementar isso na computação.
