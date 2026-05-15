@@ -1,17 +1,16 @@
-<header align="center">
+# QuantumPy
 
-<h1>QuantumPy</h1>
-<p>Acho que tenho que muda o nome, não fica legal para um repositório de estudos, parece nome de framework</p>
-
-</>
+Acho que tenho que muda o nome, não fica legal para um repositório de estudos, parece nome de framework
 
 ## Alguma coisa de Mecânica Quântica fds
 
 Tava com tedio então fiz 👍
 
-<img src="assets/AlbertEinstein.png" alt="Los Pollos Hermanos" width="500"/>
-<p align="center">~Albert Einstein</p>
-<p>Eu estava la ele realmente falou isso</p>
+![Los Pollos Hermanos](assets/AlbertEinstein.png)
+
+~Albert Einstein
+
+Eu estava la ele realmente falou isso
 
 inicializando a venv
 

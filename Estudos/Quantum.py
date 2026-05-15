@@ -13,7 +13,12 @@ x = np.linspace(0, L, N)
 dx = x[1] - x[0]  # Passo entre os pontos
 
 # V(x) é o potencial dentro da caixa, que é zero, e infinito fora da caixa. Para simplificar, consideramos apenas o potencial dentro da caixa.
-V = np.zeros(N)  # Potencial dentro da caixa é zero
+# V = np.zeros(N)  # Potencial dentro da caixa é zero
+
+V0 = 50.0
+V = np.full(N, V0)
+V[(x >= L/4) & (x <= 3*L/4)] = 0.0
+
 
 coef_diagonal = hbar**2 / (m * dx**2)       # valor da diagonal principal (parte cinética)
 coef_off       = -hbar**2 / (2 * m * dx**2)  # valor das diagonais laterais
@@ -56,6 +61,8 @@ print(energias[:7])  # Mostra as 7 primeiras energias
 print("\nAutoestados (autovetores):")
 print(autoestados.shape) # Verifica a forma da matriz de autovetores
 
+print("Potential V(x):")
+print(V)
 # Matplotlib
 
 psi_1 = autoestados[:, 0]  # Primeiro autovetor (estado fundamental)
