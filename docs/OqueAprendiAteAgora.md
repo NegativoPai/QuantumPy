@@ -22,7 +22,7 @@ Hoje utilizei o matplotlib para plotar a função de onde de um elétron em uma 
 
 Eu fiz o teste com a massa do plutônio-244, mas acho que fiz errado ou meu código está errado ou eu que não entendi direito os cálculos mas ao utilizar a massa do plutônio-244 as ondas ficaram no mesmo formato do teste do elétron, e as energias ficaram diferentes o valor da energia ficou baixíssimo, mas como eu disse pode ser que eu tenha feito algo errado, mas o teste do plutônio-244 ficou assim:
 
-![Teste do Plutônio-244](/docs/testes/Plutonio.png)
+![Teste do Plutônio-244](/docs/testes/plutonio.png)
 
 ### Fazendo o poço infinito
 

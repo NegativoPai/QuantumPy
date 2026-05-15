@@ -4,7 +4,7 @@ Acho que tenho que muda o nome, não fica legal para um repositório de estudos,
 
 ## Alguma coisa de Mecânica Quântica fds
 
-Tava com tedio então fiz 👍
+Tava com tédio então fiz o repositório para estudar 👍
 
 ![Los Pollos Hermanos](assets/AlbertEinstein.png)
 
